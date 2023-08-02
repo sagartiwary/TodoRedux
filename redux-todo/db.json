@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "title": "Learn Tailwindcss",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Next.js",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "sagar",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "learn html",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "learn css",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "ff",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "ddd",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "dd",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
